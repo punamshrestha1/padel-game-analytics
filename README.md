@@ -72,3 +72,8 @@ CSV Output + Annotated Video
 
 ```bash
 pip install ultralytics opencv-python pandas numpy
+
+
+
+
+
